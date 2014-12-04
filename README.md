@@ -1,6 +1,6 @@
 # External Links JS
 
-Never type target="blank" ever again!
+Never type target="_blank" ever again!
 
 ## Requirements
 
