@@ -19,7 +19,7 @@ ExternalLinks();
 ### Whitelist Domains
 Define a list of domains that shouldn't open in a new window.
 ```javascript
-ExternalLinks(['nojacko.com', 'jamesjackson.am']);
+ExternalLinks(['nojacko.com', 'jamesdavidjackson.com', 'jackson.am']);
 ```
 
 *Note: The current domain is determined using:*
@@ -30,4 +30,4 @@ location.hostname.replace('www.', '')
 ## Contributions
 Absolutely welcome, but this library should ONLY open links in new windows. That's it!
 
-If you can improve it, make it faster, reduce the size or add regex domain matching (some I want but don't have a need for just yet) then go for it!!!
+If you can improve it, make it faster, reduce the size or add regex domain matching (something I want but don't have a need for just yet) then go for it!!!
